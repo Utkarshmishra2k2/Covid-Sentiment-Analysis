@@ -95,9 +95,13 @@ CatBoost
 Stochastic Gradient Descent
 
 Models Result –
+
+
 For multi-class classification:
 
 CatBoost Model gives highest accuracy score - 62%
+
+
 For Binary Classification:
 
 Logistic Regression Gives highest accuracy score- 87%
